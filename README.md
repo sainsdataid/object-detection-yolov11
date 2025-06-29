@@ -10,6 +10,12 @@ This project demonstrates how to use the YOLOv11 model to perform object detecti
 - Displays object counts in the corner
 - Saves annotated video to a new file
 
+## Tutorial (Bahasa Indonesia)
+
+A full tutorial of how to use this project in Indonesian is available at:
+
+🔗 [https://bit.ly/deteksi-objek-yolov11](https://bit.ly/deteksi-objek-yolov11)
+
 ## Getting Started
 
 1. Clone this repository:

@@ -14,7 +14,7 @@ This project demonstrates how to use the YOLOv11 model to perform object detecti
 
 A full tutorial of how to use this project in Indonesian is available at:
 
-🔗 [https://bit.ly/deteksi-objek-yolov11](https://bit.ly/deteksi-objek-yolov11)
+🔗 [Deteksi Objek pada Video dengan YOLOv11](https://sainsdata.id/machine-learning/12534/deteksi-objek-pada-video-dengan-yolov11/)
 
 ## Getting Started
 

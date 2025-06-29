@@ -15,7 +15,7 @@ This project demonstrates how to use the YOLOv11 model to perform object detecti
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/yolov11-object-detection.git
+git clone https://github.com/sainsdataid/yolov11-object-detection.git
 cd yolov11-object-detection
 ```
 
@@ -30,7 +30,7 @@ pip install -r requirements.txt
 4. Run the script:
 
 ```bash
-python yolo_object_detection_video.py
+python yolo_object_detection.py
 ```
 
 ## License

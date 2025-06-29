@@ -15,7 +15,7 @@ This project demonstrates how to use the YOLOv11 model to perform object detecti
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/sainsdataid/yolov11-object-detection.git
+git clone https://github.com/sainsdataid/object-detection-yolov11.git
 cd yolov11-object-detection
 ```
 

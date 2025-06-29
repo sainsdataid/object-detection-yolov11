@@ -31,7 +31,7 @@ cd yolov11-object-detection
 pip install -r requirements.txt
 ```
 
-3. Download the YOLOv11 model file `yolo11m.pt` (or other version i.e `yolo11n.pt`, `yolo11s.pt`, etc) and place it in the project folder.
+3. Download the YOLOv11 model file `yolo11m.pt` (or other version i.e `yolo11n.pt`, `yolo11s.pt`, etc. See [here](https://docs.ultralytics.com/models/yolo11/#performance-metrics)) and place it in the project folder.
 
 4. Run the script:
 

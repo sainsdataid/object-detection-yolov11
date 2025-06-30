@@ -12,12 +12,6 @@ This project demonstrates how to use the YOLOv11 model to perform object detecti
 - Displays object counts in the corner
 - Saves annotated video to a new file
 
-## Tutorial (Bahasa Indonesia)
-
-A full tutorial of how to use this project in Indonesian is available at:
-
-🔗 [Deteksi Objek pada Video dengan YOLOv11](https://sainsdata.id/machine-learning/12534/deteksi-objek-pada-video-dengan-yolov11/)
-
 ## Getting Started
 
 1. Clone this repository:
@@ -44,3 +38,10 @@ python yolo_object_detection.py
 ## License
 
 MIT License
+
+## Tutorial (Bahasa Indonesia)
+
+A full tutorial of how to use this project in Indonesian is available at:
+
+🔗 [Deteksi Objek pada Video dengan YOLOv11](https://sainsdata.id/machine-learning/12534/deteksi-objek-pada-video-dengan-yolov11/)
+
